@@ -18,3 +18,12 @@
 Ключ для следующего таска: ZGFpejZhaFJhZVNhZXhhaWJ1YWYK
 
 ------------
+
+### suzen2
+Используемые команды:
+- **cat \*.txt** - просмотр всех файлов с форматом txt
+-  **for i in /home/suzen/*; do cat $i; done;** - bash-скрипт, выводящий содержимое всех файлов в папке
+
+Ключ для следующего таска: dGhlaWxpM2FoWm9odGFpM2VldzMK
+
+------------
