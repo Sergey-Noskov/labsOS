@@ -32,7 +32,17 @@
 Используемые команды:
 -  **while read -r l; do echo $l; done <-diary.txt-** - bash-скрипт, построчно читающий файл -diary.txt-
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/3.png)
+
 Ключ для следующего таска: Y284ZWlxdXVlMmllTDNpZXBoNWUK
+
+------------
+
+### suzen14
+Используемые команды:
+- **cd** – переход по директориям
+- **clear** – очистка экрана
+
+
+Ключ для следующего таска: d2FodmFoMWFlV2FpYmVlaG9vMmIK
 
 ------------
