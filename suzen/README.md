@@ -27,3 +27,12 @@
 Ключ для следующего таска: dGhlaWxpM2FoWm9odGFpM2VldzMK
 
 ------------
+
+### suzen3
+Используемые команды:
+-  **while read -r l; do echo $l; done <-diary.txt-** - bash-скрипт, построчно читающий файл -diary.txt-
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/3.png)
+Ключ для следующего таска: Y284ZWlxdXVlMmllTDNpZXBoNWUK
+
+------------
