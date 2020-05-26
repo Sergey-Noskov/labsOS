@@ -11,3 +11,6 @@
 | SSD  | 2 шт.  |
 | Объём дисков  | 5 GB  |
 | SATA контроллер  | 4 порта  |
+
+![](https://github.com/noskovsv/labsOS/blob/master/Screenshots/2.1.jpg)
+
